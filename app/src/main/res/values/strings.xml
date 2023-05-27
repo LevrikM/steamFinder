@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Steam Finder App</string>
+    <string name="textViewHint">Введіть SteamID</string>
+    <string name="buttonFind">Знайти</string>
+    <string name="buttonClear">Очистити пошук</string>
+    <string name="buttonOpen">Відкрити профіль</string>
+</resources>
